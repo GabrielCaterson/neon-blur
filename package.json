@@ -1,0 +1,26 @@
+{
+  "name": "neon-blur-1-react-theme",
+  "version": "1.0.0",
+  "description": "A react theme.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielCaterson/neon-blur.git"
+  },
+  "author": "Gabriel Caterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielCaterson/neon-blur/issues"
+  },
+  "homepage": "https://github.com/GabrielCaterson/neon-blur#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
